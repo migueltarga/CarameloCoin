@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/1177629/112147973-ad6de780-8bb3-11eb-8325-6f883d8ae9ef.png" width="300" height="200" />
+
 CarameloCoin Core integration/staging tree
 =====================================
 
